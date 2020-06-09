@@ -905,7 +905,7 @@ span.border-text {
     padding-left: 30px;
 }
 .close-menu {
-    color: #fff;
+    color: rgb(0, 0, 0);
     font-size: 60px;
     cursor: pointer;
     line-height: 49px;
@@ -1055,11 +1055,11 @@ span.border-text {
     display: block;
 }
 .menu-wrap a {
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
 .menu-wrap a:hover,
 .menu-wrap a:focus {
-    color: #7beec7;
+    color: #f7efef;
 }
 .content-wrap {
     -webkit-overflow-scrolling: touch;
@@ -1401,7 +1401,7 @@ ul.sub-menu li a {
     padding-right: 15px;
     display: block;
     list-style: none;
-    color: #fff;
+    color: rgb(8, 8, 8);
     letter-spacing: 2.5pt;
     font-family: 'Lekton', sans-serif;
 }

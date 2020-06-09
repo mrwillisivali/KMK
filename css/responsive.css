@@ -323,6 +323,7 @@
 
 	.ef-parallax-bg{
 		background-attachment: fixed;
+		background-repeat: no-repeat;
 	}
 
 	.slider-wrapper{
